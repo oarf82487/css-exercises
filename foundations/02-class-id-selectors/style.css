@@ -3,8 +3,19 @@
     background-color:rgb(255, 175, 204)
 }
 
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+
 #specialone {
     color: #1c7cd5;
     font-size: 36px;
 
+}
+
+#anotherid {
+    background-color: hsl(134,75%,72%);
+    font-weight: bold;
 }
